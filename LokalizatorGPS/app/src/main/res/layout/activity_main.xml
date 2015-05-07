@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <EditText
+        android:id="@+id/edit_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Podaj swoje imię"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="43dp"
+        android:layout_weight="1"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wyślij"
+        android:layout_below="@+id/edit_message"
+        android:layout_centerHorizontal="true"
+        android:onClick="sendMessage" />
+
+    <Button
+        android:id="@+id/Pokaz_lokalizacje"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pokaż lokalizację"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        />
+
+</RelativeLayout>
