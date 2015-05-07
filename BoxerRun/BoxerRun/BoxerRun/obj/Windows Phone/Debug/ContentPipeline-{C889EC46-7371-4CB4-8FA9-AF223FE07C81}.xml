@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\background.xnb</Output>
+      <Time>2015-03-26T18:32:58.92659+01:00</Time>
+    </Item>
+    <Item>
+      <Source>boxer.png</Source>
+      <Name>boxer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\boxer.xnb</Output>
+      <Time>2015-03-26T19:40:15.8916344+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gnu1.png</Source>
+      <Name>gnu1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\gnu1.xnb</Output>
+      <Time>2015-03-26T20:08:43.5255721+01:00</Time>
+    </Item>
+    <Item>
+      <Source>music\gra.mp3</Source>
+      <Name>music\gra</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\music\gra.xnb</Output>
+      <Extra>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\music\gra.wma</Extra>
+      <Time>2015-03-30T14:56:54.2842848+02:00</Time>
+    </Item>
+    <Item>
+      <Source>music\menu.mp3</Source>
+      <Name>music\menu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\music\menu.xnb</Output>
+      <Extra>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\music\menu.wma</Extra>
+      <Time>2015-03-30T14:56:54.2942856+02:00</Time>
+    </Item>
+    <Item>
+      <Source>music\death1.wav</Source>
+      <Name>music\death1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\music\death1.xnb</Output>
+      <Time>2015-03-30T15:25:35.7460314+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\gameFont.xnb</Output>
+      <Time>2015-03-30T19:08:37.749243+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mute.png</Source>
+      <Name>mute</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\mute.xnb</Output>
+      <Time>2015-04-04T12:13:24.1750191+02:00</Time>
+    </Item>
+    <Item>
+      <Source>unmute.png</Source>
+      <Name>unmute</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\unmute.xnb</Output>
+      <Time>2015-04-04T12:13:24.1850199+02:00</Time>
+    </Item>
+    <Item>
+      <Source>play.png</Source>
+      <Name>play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\play.xnb</Output>
+      <Time>2015-04-04T12:46:13.3487716+02:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.png</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\menu.xnb</Output>
+      <Time>2015-04-09T10:41:09.8700847+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C889EC46-7371-4CB4-8FA9-AF223FE07C81}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRunContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-03-23T19:00:35.2499797+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

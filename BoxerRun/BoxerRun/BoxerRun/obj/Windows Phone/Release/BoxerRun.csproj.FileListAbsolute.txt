@@ -1,0 +1,17 @@
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Release\Content\background.xnb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Release\BoxerRun.dll
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Release\BoxerRun.pdb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\obj\Windows Phone\Release\BoxerRun.dll
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\obj\Windows Phone\Release\BoxerRun.pdb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\obj\Windows Phone\Release\WMAppManifest.xml
+bin\Windows Phone\Release\
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Release\BoxerRun.xap
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Release\Content\boxer.xnb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\obj\Windows Phone\Release\BoxerRun.csprojResolveAssemblyReference.cache
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Release\Content\gnu1.xnb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Release\Content\enemy2.xnb
+C:\Users\boszk_000\Documents\Visual Studio 2012\Projects\BoxerRun\BoxerRun\BoxerRun\bin\Windows Phone\Release\Content\playerIco3.xnb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxerRun", "BoxerRun\BoxerRun\BoxerRun.csproj", "{25C15D20-D956-4BFB-86FA-ADF080E79070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxerRunContent", "BoxerRun\BoxerRunContent\BoxerRunContent.contentproj", "{C889EC46-7371-4CB4-8FA9-AF223FE07C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25C15D20-D956-4BFB-86FA-ADF080E79070}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{25C15D20-D956-4BFB-86FA-ADF080E79070}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{25C15D20-D956-4BFB-86FA-ADF080E79070}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{25C15D20-D956-4BFB-86FA-ADF080E79070}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{25C15D20-D956-4BFB-86FA-ADF080E79070}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{25C15D20-D956-4BFB-86FA-ADF080E79070}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{C889EC46-7371-4CB4-8FA9-AF223FE07C81}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{C889EC46-7371-4CB4-8FA9-AF223FE07C81}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
