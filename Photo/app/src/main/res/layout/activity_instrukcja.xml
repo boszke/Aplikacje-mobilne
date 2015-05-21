@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.boszk_000.photo.instrukcja">
+
+    <TextView android:text="Aplikcja pozwala na zrobienie zdjęcia i zabawę z kolorami.\n
+    Po kliknięciu na przycisk aplikacja przenosi nas do aparatu. \n
+    Kiedy wykonane zostanie zdjęcie, zostaniemy przeniesieni do ekranu edycji. \n
+    Możemy tam pobawić się kolorami oraz zapisać edytowane zdjęcie. \n
+    UWAGA: Po powrocie do głównego menu zdjęcia nie zapisują się!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="73dp"
+        android:id="@+id/oprogramie"
+        android:textColor="#ff000000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Instrukcja"
+        android:id="@+id/tytulInstrukcja"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
